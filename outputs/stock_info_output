@@ -1,0 +1,31 @@
+{'zip': '98052-6399', 'sector': 'Technology', 'fullTimeEmployees': 181000, 'city': 'Redmond', 'phone': '425 882 8080', 'state': 'WA', 'country': 'United States', 'companyOfficers': [], 'website': 'ht
+tp://www.microsoft.com', 'maxAge': 1, 'address1': 'One Microsoft Way', 'industry': 'Software—Infrastructure', 'ebitdaMargins': 0.48080003, 'profitMargins': 0.
+36451998, 'grossMargins': 0.68926, 'operatingCashflow': 76740001792, 'revenueGrowth': 0.213, 'operatingMargins': 0.41595, 'ebitda': 80815996928, 'targetLowPri
+ce': 280, 'recommendationKey': 'buy', 'grossProfits': 115856000000, 'freeCashflow': 41337249792, 'targetMedianPrice': 338, 'currentPrice': 304.21, 'earningsGr
+owth': 0.486, 'currentRatio': 2.08, 'returnOnAssets': 0.13761, 'numberOfAnalystOpinions': 37, 'targetMeanPrice': 336.28, 'debtToEquity': 57.947, 'returnOnEqui
+ty': 0.47079, 'targetHighPrice': 411, 'totalCash': 130256003072, 'totalDebt': 82277998592, 'totalRevenue': 168087994368, 'totalCashPerShare': 17.333, 'financi
+alCurrency': 'USD', 'revenuePerShare': 22.272, 'quickRatio': 1.898, 'recommendationMean': 1.7, 'exchange': 'NMS', 'shortName': 'Microsoft Corporation', 'longN
+ame': 'Microsoft Corporation', 'exchangeTimezoneName': 'America/New_York', 'exchangeTimezoneShortName': 'EDT', 'isEsgPopulated': False, 'gmtOffSetMilliseconds
+': '-14400000', 'quoteType': 'EQUITY', 'symbol': 'MSFT', 'messageBoardId': 'finmb_21835', 'market': 'us_market', 'annualHoldingsTurnover': None, 'enterpriseTo
+Revenue': 13.315, 'beta3Year': None, 'enterpriseToEbitda': 27.694, '52WeekChange': 0.4200822, 'morningStarRiskRating': None, 'forwardEps': 10.11, 'revenueQuar
+terlyGrowth': None, 'sharesOutstanding': 7514890240, 'fundInceptionDate': None, 'annualReportExpenseRatio': None, 'totalAssets': None, 'bookValue': 18.884, 's
+haresShort': 47171313, 'sharesPercentSharesOut': 0.0063, 'fundFamily': None, 'lastFiscalYearEnd': 1625011200, 'heldPercentInstitutions': 0.71796995, 'netIncom
+eToCommon': 61270999040, 'trailingEps': 8.05, 'lastDividendValue': 0.56, 'SandP52WeekChange': 0.3047781, 'priceToBook': 16.109404, 'heldPercentInsiders': 0.00
+08, 'nextFiscalYearEnd': 1688083200, 'yield': None, 'mostRecentQuarter': 1625011200, 'shortRatio': 1.99, 'sharesShortPreviousMonthDate': 1630368000, 'floatSha
+res': 7506925463, 'beta': 0.802645, 'enterpriseValue': 2238127013888, 'priceHint': 2, 'threeYearAverageReturn': None, 'lastSplitDate': 1045526400, 'lastSplitF
+actor': '2:1', 'legalType': None, 'lastDividendDate': 1629244800, 'morningStarOverallRating': None, 'earningsQuarterlyGrowth': 0.469, 'priceToSalesTrailing12M
+onths': 13.600642, 'dateShortInterest': 1632960000, 'pegRatio': 2.21, 'ytdReturn': None, 'forwardPE': 30.09001, 'lastCapGain': None, 'shortPercentOfFloat': 0.
+eToCommon': 61270999040, 'trailingEps': 8.05, 'lastDividendValue': 0.56, 'SandP52WeekChange': 0.3047781, 'priceToBook': 16.109404, 'heldPercentInsiders': 0.00
+08, 'nextFiscalYearEnd': 1688083200, 'yield': None, 'mostRecentQuarter': 1625011200, 'shortRatio': 1.99, 'sharesShortPreviousMonthDate': 1630368000, 'floatSha
+res': 7506925463, 'beta': 0.802645, 'enterpriseValue': 2238127013888, 'priceHint': 2, 'threeYearAverageReturn': None, 'lastSplitDate': 1045526400, 'lastSplitF
+actor': '2:1', 'legalType': None, 'lastDividendDate': 1629244800, 'morningStarOverallRating': None, 'earningsQuarterlyGrowth': 0.469, 'priceToSalesTrailing12M
+onths': 13.600642, 'dateShortInterest': 1632960000, 'pegRatio': 2.21, 'ytdReturn': None, 'forwardPE': 30.09001, 'lastCapGain': None, 'shortPercentOfFloat': 0.
+0063, 'sharesShortPriorMonth': 45696881, 'impliedSharesOutstanding': None, 'category': None, 'fiveYearAverageReturn': None, 'previousClose': 302.75, 'regularM
+arketOpen': 302.34, 'twoHundredDayAverage': 274.13123, 'trailingAnnualDividendYield': 0.0073988438, 'payoutRatio': 0.272, 'volume24Hr': None, 'regularMarketDa
+yHigh': 304.45, 'navPrice': None, 'averageDailyVolume10Day': 21633914, 'regularMarketPreviousClose': 302.75, 'fiftyDayAverage': 296.29382, 'trailingAnnualDivi
+dendRate': 2.24, 'open': 302.34, 'toCurrency': None, 'averageVolume10days': 21633914, 'expireDate': None, 'algorithm': None, 'dividendRate': 2.48, 'exDividend
+Date': 1637107200, 'circulatingSupply': None, 'startDate': None, 'regularMarketDayLow': 300.52, 'currency': 'USD', 'trailingPE': 37.790062, 'regularMarketVolu
+me': 25384803, 'lastMarket': None, 'maxSupply': None, 'openInterest': None, 'marketCap': 2286104608768, 'volumeAllCurrencies': None, 'strikePrice': None, 'ave
+rageVolume': 22955968, 'dayLow': 300.52, 'ask': 304.3, 'askSize': 900, 'volume': 25384803, 'fiftyTwoWeekHigh': 305.84, 'fromCurrency': None, 'fiveYearAvgDivid
+endYield': 1.48, 'fiftyTwoWeekLow': 199.62, 'bid': 304.21, 'tradeable': False, 'dividendYield': 0.0082, 'bidSize': 900, 'dayHigh': 304.45, 'regularMarketPrice
+': 304.21, 'logo_url': 'https://logo.clearbit.com/microsoft.com'}

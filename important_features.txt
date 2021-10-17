@@ -1,0 +1,19 @@
+will use:
+    history (Open, High, Low, Close, Volume, Dividends, Stock Splits)
+        actions
+            [dividends, splits]
+
+
+maybe:
+    download [Open, High, Low, Close, Volume]
+
+don't need:
+    info
+    financials, quarterly_financials
+    balance_sheet, quarterly_balance_sheet
+    cashflow, quarterly_cashflow
+    earnings, quarterly_earnings
+    sustainability
+    recommendations (only starts from 2012, and only applicable for some companies)
+    isin
+    options
