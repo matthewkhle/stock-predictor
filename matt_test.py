@@ -1,25 +1,34 @@
 import yfinance as yf
 import pandas as pd
 
-arr = [['AAV'], ['ABAC'], ['ABCW'], ['ABDC'], ['ABGB'], ['ABTL'], ['ABX'], ['ABY'], ['ACAS'], ['ACAT'], ['ACCU']]
-df = pd.DataFrame(data=arr)
-
-print(df)
+tickers = pd.read_csv('historical_data/A.csv', sep=',', header=None, skiprows=[0]) #reading the data by using Pandas library
 
 
-# tickers = pd.read_csv('tickers/tickers.csv', sep=',', header=None, usecols=[1], skiprows=[0]) #reading the data by using Pandas library
+print(tickers)
 
-# for ticker in tickers[1]:
-#     ticker_string = str(ticker)
-#     yf_ticker = yf.Ticker(ticker_string)
-    
-#     historical_data = msft.history(period="max",intervals="1d") 
-#     # print(historical_data) 
+# BERT
 
-#     #Lets get this to an excel file
-#     #https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.to_excel.html (Documentation on this)
-#     ticker_name = "msft"
-#     file_name = "historical_data/" + ticker_name + ".csv"
-#     historical_data.to_csv(file_name)
 
-# # print(type(df))
+# Ticker: A
+# pass in the article to BERT for context analysis
+    # gives some sort of numerical representation of connotation
+        #Ex. "Company sold X amount of shares" --> 
+            #Sell if you have the stock (sell connotation)
+            #Buy if you do not have the stock (buy connotation)
+
+# connotation/
+    # A.csv
+        # Date, Number (numerical representation of connotation)
+
+
+# Merge historical_data and connotation
+    # 8th column (all neutral value or empty)
+        #Neutral values/Range:
+        #Positive values/Range:
+        #Negative values/Range:
+        #No article (N/A): (maybe 2 or something)
+    # go through connotation/A.csv
+    # get date, edit the 8th column according to Number (numerical representation of connotation)
+
+    # 9th column
+        #publisher
